@@ -15,6 +15,5 @@
 </template>
 
 
-<script>
-   //src="https://api-maps.yandex.ru/2.1/?apikey=90a67968-ccd8-4782-88e4-8fb2f21ba155&lang=ru_RU"
+<script src="https://api-maps.yandex.ru/2.1/?apikey=90a67968-ccd8-4782-88e4-8fb2f21ba155&lang=ru_RU">
 </script>
